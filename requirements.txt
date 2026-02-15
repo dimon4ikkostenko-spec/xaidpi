@@ -1,0 +1,4 @@
+customtkinter
+darkdetect
+pyinstaller
+auto-py-to-exe
