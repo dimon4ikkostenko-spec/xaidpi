@@ -1,6 +1,6 @@
 # XAIDPI
 
-[![Release](https://img.shields.io/badge/release-v1.00_stable-blue)](https://github.com/KostenkoDev/XAIDPI/releases)
+[![Release](https://img.shields.io/badge/release-v2.5.0_stable-blue)](https://github.com/KostenkoDev/XAIDPI/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows_10%2F11-lightgrey)]()
 [![Author](https://img.shields.io/badge/author-KostenkoDev-green)]()
 
